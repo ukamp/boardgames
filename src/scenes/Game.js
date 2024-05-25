@@ -21,11 +21,11 @@ export class Game extends Scene
 
     preload ()
     {
-        this.load.image('titleMain', 'assets/titleMain2.png');
-        this.load.image('gameBoard', 'assets/gameBoard.jpg');
-        this.load.image('tilesetHexTiles', 'assets/tilesetHexTiles2.png');
-        this.load.tilemapTiledJSON('tileMapGameBoard', 'assets/tileMapGameBoard.json');    
-        this.load.tilemapTiledJSON('tileMapBar', 'assets/tileMapBar.json'); 
+        this.load.image('titleMain', './assets/titleMain2.png');
+        this.load.image('gameBoard', './assets/gameBoard.jpg');
+        this.load.image('tilesetHexTiles', './assets/tilesetHexTiles2.png');
+        this.load.tilemapTiledJSON('tileMapGameBoard', './assets/tileMapGameBoard.json');    
+        this.load.tilemapTiledJSON('tileMapBar', './assets/tileMapBar.json'); 
     }    
 
 
