@@ -1,0 +1,14 @@
+{ "columns":10,
+ "image":"..\/public\/assets\/hexTiles.png",
+ "imageheight":233,
+ "imagewidth":1000,
+ "margin":0,
+ "name":"hexTiles",
+ "spacing":0,
+ "tilecount":10,
+ "tiledversion":"1.10.2",
+ "tileheight":117,
+ "tilewidth":100,
+ "type":"tileset",
+ "version":"1.10"
+}
