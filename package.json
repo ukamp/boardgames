@@ -18,7 +18,7 @@
     "bugs": {
         "url": "https://github.com/phaserjs/template-webpack/issues"
     },
-    "homepage": "https://github.com/ukamp/boardgames",
+    "homepage": "https://ukamp.github.io/boardgames/",
     "devDependencies": {
         "@babel/core": "^7.24.5",
         "@babel/preset-env": "^7.24.5",
